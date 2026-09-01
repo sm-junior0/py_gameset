@@ -1,0 +1,38 @@
+[
+  {
+    "id": "question_1",
+    "prompt": "What should happen before planting?",
+    "choices": [
+      "Prepare the soil",
+      "Harvest the maize",
+      "Cook the maize"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Preparing the soil creates suitable conditions for the seed to grow.",
+    "feedback_incorrect": "Preparing the soil helps the seed start growing in a suitable place."
+  },
+  {
+    "id": "question_2",
+    "prompt": "Which action is important when planting a seed?",
+    "choices": [
+      "Place it correctly in prepared soil",
+      "Leave it on the road",
+      "Put it on top of a building"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Planting works best when the seed is placed correctly in prepared soil.",
+    "feedback_incorrect": "The seed should be placed correctly in prepared soil so it can begin growing."
+  },
+  {
+    "id": "question_3",
+    "prompt": "What does a growing maize crop need?",
+    "choices": [
+      "Appropriate water and care",
+      "No water at all",
+      "Only sunlight with no soil"
+    ],
+    "correct_index": 0,
+    "feedback_correct": "Growing maize needs water and care in this simplified prototype.",
+    "feedback_incorrect": "A growing maize crop needs water and ongoing care."
+  }
+]

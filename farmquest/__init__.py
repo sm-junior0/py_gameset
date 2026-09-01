@@ -1,0 +1,1 @@
+"""FarmQuest package."""

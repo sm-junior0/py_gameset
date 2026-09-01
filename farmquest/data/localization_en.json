@@ -1,0 +1,17 @@
+{
+  "language": "en",
+  "strings": {
+    "title": "FarmQuest",
+    "start": "Start Adventure",
+    "settings": "Settings",
+    "restart": "Restart",
+    "return_to_title": "Return to Title",
+    "pause": "Paused",
+    "resume": "Resume",
+    "staff_reset": "Staff Reset",
+    "muted": "Muted",
+    "objective": "Objective",
+    "interact": "Interact",
+    "jump": "Jump"
+  }
+}

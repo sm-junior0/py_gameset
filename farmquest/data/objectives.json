@@ -1,0 +1,15 @@
+{
+  "INTRODUCTION": "Learn the controls and head right into the farm.",
+  "EXPLORING": "Answer the first question, then search for the hidden maize seed.",
+  "SEED_FOUND": "Reach the farm plot and prepare the soil.",
+  "SOIL_PREPARED": "Answer the planting question and plant the maize seed.",
+  "SEED_PLANTED": "Visit the water source and give the crop enough water.",
+  "CROP_WATERED": "Remove the weed and answer the crop-care question.",
+  "CROP_PROTECTED": "Wait through the accelerated growth transition.",
+  "CROP_GROWING": "The maize is growing. Stay ready to harvest.",
+  "CROP_MATURE": "Harvest the mature maize.",
+  "CROP_HARVESTED": "Take the maize to the mill for processing.",
+  "MAIZE_PROCESSED": "Enter the kitchen and cook the maize meal.",
+  "MEAL_COOKED": "Serve the completed meal at the final station.",
+  "COMPLETED": "The farm-to-table journey is complete."
+}
