@@ -8,3 +8,5 @@ bin/
 *.aab
 .venv/
 venv/
+config.bat
+node_modules
